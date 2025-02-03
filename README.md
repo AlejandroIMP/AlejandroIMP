@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alejandro Sunuc</h1>
-<h3 align="center">A passionate frontend developer from Guatemala</h3>
+<h3 align="center">A passionate frontend developer based in Guatemala</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandroimp&label=Profile%20views&color=0e75b6&style=flat" alt="alejandroimp" /> </p>
 
 <p align="left"> <a href="https://twitter.com/alejandrortw" target="blank"><img src="https://img.shields.io/twitter/follow/alejandrortw?logo=twitter&style=for-the-badge" alt="alejandrortw" /></a> </p>
 
-- 🔭 I’m currently working on [E-Commerce](https://github.com/AlejandroIMP/desafioweb-donarturo)
+- 🔭 I’m currently working on [Accounting System]()
 
 - 🌱 I’m currently learning **BackEnd with express**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Front End Developing**
 
-- 📫 How to reach me **alejandrosunuc13@gmail.com**
+- 📫 How to reach me **alejandrosunuc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
