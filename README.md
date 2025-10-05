@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Accounting System]()
 
-- 🌱 I’m currently learning **BackEnd with express**
+- 🌱 I’m currently learning **BackEnd with c#**
 
-- 👨‍💻 All of my projects are available at [alejandroimp.me](alejandroimp.me)
+- 👨‍💻 All of my projects are available at [alejandroimp.me](https://www.alejandroimp.me)
 
 - 💬 Ask me about **Front End Developing**
 
